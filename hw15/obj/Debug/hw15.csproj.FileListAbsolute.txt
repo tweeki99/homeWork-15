@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\hw15\hw15\bin\Debug\hw15.exe.config
+C:\Users\Shipa\source\repos\hw15\hw15\bin\Debug\hw15.exe
+C:\Users\Shipa\source\repos\hw15\hw15\bin\Debug\hw15.pdb
+C:\Users\Shipa\source\repos\hw15\hw15\obj\Debug\hw15.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hw15\hw15\obj\Debug\hw15.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hw15\hw15\obj\Debug\hw15.exe
+C:\Users\Shipa\source\repos\hw15\hw15\obj\Debug\hw15.pdb
